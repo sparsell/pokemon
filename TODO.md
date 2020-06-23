@@ -1,7 +1,7 @@
 Welcome to Pokemon!
 
 Which Pokemon would you like to see in more detail? 
-1. (index of first 20 pokmon)
+1. (index of first 20 pokemon)
 2.
 3.
 

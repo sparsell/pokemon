@@ -1,6 +1,7 @@
 require "pokemon/version"
 require "pokemon/cli"
 require "pokemon/api"
+
 require "pokemon/pokemon"
 
 # require 'pry'
